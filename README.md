@@ -134,13 +134,13 @@ Time spent: **X** hours spent in total
 The following **required** user stories are complete:
 
 - The following screens use AutoLayout to adapt to various orientations and screen sizes
-   - [ ] Movie feed view (+3pt)
-   - [ ] Detail view (+2pt)
+   - [X] Movie feed view (+3pt)
+   - [X] Detail view (+2pt)
 
 The following **stretch** user stories are implemented:
 
-- [ ] Dynamic Height Cells (+1)
-- [ ] Collection View AutoLayout (+2)
+- [X] Dynamic Height Cells (+1)
+- [X] Collection View AutoLayout (+2)
 
 The following **additional** user stories are implemented:
 
@@ -165,7 +165,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
